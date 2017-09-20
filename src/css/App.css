@@ -1,0 +1,21 @@
+section {
+  width: 31%;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+  background: lime;
+  margin: 20px 1%;
+  height: 300px;
+}
+
+span {
+  font-weight: bold;
+  color: navy;
+  text-transform: uppercase;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: navy;
+}
